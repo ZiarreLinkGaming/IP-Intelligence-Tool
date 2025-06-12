@@ -133,43 +133,6 @@ $ipInput.Add_KeyDown({
     }
 })
 
-# $ipInput.Add_TextChanged({
-#     if (-not $Global:isIpInputUpdating) {
-#         $Global:isIpInputUpdating = $true
-        
-#         $currentText = $ipInput.Text
-#         $selectionStart = $ipInput.SelectionStart
-#         $selectionLength = $ipInput.SelectionLength
-
-#         $cleanedText = $currentText.Replace('[.]', '.')
-#         $cleanedText = $cleanedText -replace "`r`n", " " `
-#                                    -replace "`n", " " `
-#                                    -replace ",", " " `
-#                                    -replace ";", " " `
-#                                    -replace "\s+", " "
-
-#         $cleanedText = $cleanedText.Trim()
-#         if ($cleanedText.Length -gt 0 -and -not $cleanedText.EndsWith(" ")) {
-#             $cleanedText += " "
-#         }
-        
-#         if ($ipInput.Text -ne $cleanedText) {
-#             $ipInput.Text = $cleanedText
-            
-#             if ($selectionStart -gt $ipInput.Text.Length) {
-#                 $selectionStart = $ipInput.Text.Length
-#             }
-#             $ipInput.SelectionStart = $selectionStart
-#             $ipInput.SelectionLength = $selectionLength
-#             $ipInput.ScrollToCaret()
-#         }
-        
-#         $Global:isIpInputUpdating = $false
-#     }
-# })
-# --- END REMOVE BLOCK ---
-
-
 # --- Output Box Setup ---
 $outputBox = New-Object System.Windows.Forms.RichTextBox
 $outputBox.Location = New-Object System.Drawing.Point(20, 125)
