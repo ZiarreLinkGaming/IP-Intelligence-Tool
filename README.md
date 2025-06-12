@@ -19,7 +19,7 @@ For complete details, features, installation instructions, and troubleshooting, 
 1.  Download `VPN.ps1` and `run-vpn.cmd`.
 2.  Ensure both are in the same directory.
 3.  Double-click `run-vpn.cmd` to launch.
-* **Note:** This tool leverages APIs from ipapi.is and AbuseIPDB. For API key configuration and advanced usage, refer to the [Full Documentation & Usage Guide](https://ziarrelinkgaming.github.io/IP-Intelligence-Tool/ip-lookup-readme.html).
+* **Note:** This tool leverages APIs from ipapi.is and AbuseIPDB. For API key configuration and advanced usage, refer to the [Full Documentation & Usage Guide].
 
 ---
 
