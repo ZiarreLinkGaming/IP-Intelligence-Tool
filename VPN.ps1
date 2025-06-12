@@ -16,8 +16,8 @@ $footerColor = [System.Drawing.Color]::FromArgb(255,165,0)
 $customOutputColor = [System.Drawing.ColorTranslator]::FromHtml("#0ff5bf")
 $uriColor = [System.Drawing.ColorTranslator]::FromHtml("#f28b82")
 
-$apiKey = "841fd9ac875d86891b15"
-$abuseIpdbApiKey = "68d288be9e1f1c19d106a0be0b6e2991c6a8a81b7874b427d62fd456efeb59b38f70d44d55f36212"
+$apiKey = "#########################" # ipapi.is API Key
+$abuseIpdbApiKey = "###################################" # AbuseIPDB API Key
 
 # --- Form Setup ---
 $form = New-Object System.Windows.Forms.Form
