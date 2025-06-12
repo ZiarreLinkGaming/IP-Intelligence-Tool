@@ -9,7 +9,7 @@ A powerful IP intelligence lookup tool for sec analysts, designed for bulk and r
 For complete details, features, installation instructions, and troubleshooting, please refer to the comprehensive HTML guide:
 
 <a href="https://ziarrelinkgaming.github.io/IP-Intelligence-Tool/ip-lookup-readme.html" target="_blank">
-    <b>👉 View Full Guide Here</b>
+    <b>👉 View Full Guide Here</b>
 </a>
 
 ---
@@ -19,6 +19,7 @@ For complete details, features, installation instructions, and troubleshooting, 
 1.  Download `VPN.ps1` and `run-vpn.cmd`.
 2.  Ensure both are in the same directory.
 3.  Double-click `run-vpn.cmd` to launch.
+* **Note:** This tool leverages APIs from ipapi.is and AbuseIPDB. For API key configuration and advanced usage, refer to the [Full Documentation & Usage Guide](https://ziarrelinkgaming.github.io/IP-Intelligence-Tool/ip-lookup-readme.html).
 
 ---
 
@@ -26,4 +27,4 @@ For complete details, features, installation instructions, and troubleshooting, 
 
 **[RACHA]**
 
-If you find bugs or want to suggest improvements, please contact the maintainer.
+If you find bugs or want to suggest improvements, please get in touch with the maintainer.
