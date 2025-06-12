@@ -8,7 +8,9 @@ A powerful IP intelligence lookup tool for sec analysts, designed for bulk and r
 
 For complete details, features, installation instructions, and troubleshooting, please refer to the comprehensive HTML guide:
 
-**[👉 View Full Guide Here](https://ziarrelinkgaming.github.io/IP-Intelligence-Tool/ip-lookup-readme.html)**
+<a href="https://ziarrelinkgaming.github.io/IP-Intelligence-Tool/ip-lookup-readme.html" target="_blank">
+    <b>👉 View Full Guide Here</b>
+</a>
 
 ---
 
